@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Jatinder",
+        "age"   : "25",
+        "height" : "5.10",
+        "city"  : "Abohar",
+        "state" : "Punjab"
+    },
+    {
+        "name" : "Ravi",
+        "age"   : "27",
+        "height" : "6.10",
+        "city"  : "Noida",
+        "state" : "UP"
+    },
+    {
+        "name" : "Raj",
+        "age"   : "45",
+        "height" : "5.7",
+        "city"  : "Jaipur",
+        "state" : "Rajasthan"
+    },
+    {
+        "name" : "Mahinder",
+        "age"   : "0",
+        "height" : "5.12",
+        "city"  : "Haridwar",
+        "state" : "Uk"
+    }
+]
